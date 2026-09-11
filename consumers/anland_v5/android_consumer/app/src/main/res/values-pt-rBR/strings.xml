@@ -4,14 +4,14 @@
 
     <!-- Titles / section headers -->
     <string name="settings_title">Configurações</string>
-    <string name="section_virtual_keyboard">Tecla do Teclado Virtual</string>
+    <string name="section_virtual_keyboard">Tecla do teclado virtual</string>
     <string name="section_extra_keys">Barra de teclas extras</string>
     <string name="section_custom_layout">Layout customizado de teclas extras</string>
-    <string name="section_touchpad">Configurações de Touchpad</string>
+    <string name="section_touchpad">Configurações do Touchpad</string>
     <string name="section_connection">Conexão</string>
     <string name="section_resolution">Resolução da tela</string>
-    <string name="section_notification">Configuração da notificação</string>
-
+    <string name="section_notification">Configurações de notificação</string>
+    
     <!-- Settings home: category rows and back navigation -->
     <string name="nav_back">‹ Voltar</string>
     <string name="cat_keyboard_title">Teclado e Teclas</string>
@@ -40,7 +40,7 @@
     <string name="auto_show_switch">Mostrar teclas extras automaticamente com o teclado</string>
     <string name="auto_show_hint">Quando ativado, a barra de teclas extras aparece automaticamente junto com o soft keyboard e se esconde quando ele fecha. Quando desativado, a barra fica visível até ser alternada manualmente nas configurações.</string>
     <string name="back_opens_switch">Tecla Voltar abre a barra de teclas extras</string>
-    <string name="back_opens_hint">Quando ativado, pressionar Voltar enquanto a barra de teclas extras está escondida mostra-a; pressionar Voltar de novo esconde-a. Use isso para acessar as teclas extras sem precisar abrir o soft keyboard primeiro.</string>
+    <string name="back_opens_hint">Quando ativado, pressionar Voltar enquanto a barra de teclas extras está escondida, ela será mostrada; pressionar Voltar de novo esconde-a. Use isso para acessar as teclas extras sem precisar abrir o soft keyboard primeiro.</string>
     <string name="keyboard_floating_switch">Teclado Flutuante (Sobreposição da tela)</string>
     <string name="keyboard_floating_hint">Quando ativado faz o soft keyboard e a barra de teclas extras flutuar sobre a tela invés de encolher ela; a barra usa um fundo translúcido e sobe junto com o teclado, mas o display não é redimensionado. Quando desativado, o comportamento original (tela encolhe para dar espaço) continua. Faz efeito na próxima volta ao desktop.</string>
 
@@ -66,13 +66,13 @@
     <string name="root_switch">Conecta com root (Helper)</string>
     <string name="root_hint">Executa um helper root (su) que conecta no socket e passa a conexão de volta para o app. Faz efeito na próxima sessão (Reabra o app).</string>
     <string name="mic_switch">Encaminha o microfone para o desktop</string>
-    <string name="mic_hint">O áudio do desktop é enviado para os alto-falantes desse dispositivo. Ativar isso também faz que o microfone envie áudio na direção oposta. Faz efeito na próxima sessão (Reabra o app).</string>
+    <string name="mic_hint">O áudio do desktop é enviado para os alto-falantes desse dispositivo. Ativar isso também faz com que o microfone envie áudio na direção oposta. Faz efeito na próxima sessão (Reabra o app).</string>
     <string name="camera_switch">Encaminha a câmera para o desktop</string>
     <string name="camera_hint">Deixa o desktop abrir a câmera desse dispositivo como uma fonte de vídeo. A câmera só liga quando o desktop está gravando/transmitindo ela. Faz efeito na próxima sessão do app. (No primeiro uso será pedida a permissão de uso da câmera)</string>
     <string name="audio_latency_title">Latência do Áudio</string>
     <string name="latency_speaker_label">Som (Desktop → Dispositivo)</string>
     <string name="latency_mic_label">Microfone (Dispositivo → Desktop)</string>
-    <string name="latency_hint">Presets mais baixos reduzem a latência, mas causa ruídos e falhas em dispositivos mais sobrecarregados. Faz efeito na próxima sessão do app.</string>
+    <string name="latency_hint">Presets mais baixos reduzem a latência, mas causam ruídos e falhas em dispositivos mais sobrecarregados. Faz efeito na próxima sessão do app.</string>
 
     <!-- Resolution -->
     <string name="width_hint">Largura (ex: 1920)</string>
