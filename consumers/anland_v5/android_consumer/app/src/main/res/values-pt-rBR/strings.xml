@@ -45,7 +45,7 @@
     <string name="keyboard_floating_hint">Quando ativado faz o soft keyboard e a barra de teclas extras flutuar sobre a tela invés de encolher ela; a barra usa um fundo translúcido e sobe junto com o teclado, mas o display não é redimensionado. Quando desativado, o comportamento original (tela encolhe para dar espaço) continua. Faz efeito na próxima volta ao desktop.</string>
 
     <!-- Custom layout editor -->
-    <string name="btn_load_default">Carregar template original</string>
+    <string name="btn_load_default">Carregar template padrão</string>
     <string name="btn_load_file">Carregar de um arquivo…</string>
     <string name="layout_hint">Define a barra de teclas extras como JSON: \"rows\" é um array de linhas, cada uma um array de teclas. Uma tecla tem um \"label\" e um \"type\" (key/text/modifier/keyboard/vkeyboard/settings). \"key\"/\"modifier\" usam um evdev \"code\"; \"text\" usa \"text\"; qualquer tecla pode adicionar \"repeat\":true ou um \"popup\" aninhado. JSON inválido retorna para o padrão. Tem efeito na próxima volta ao desktop.</string>
     <string name="layout_status_default">Usando o layout padrão embutido</string>
